@@ -20,8 +20,16 @@ font-size:large
 .fontOnly
 {
         font-family: verdana, arial, sans-serif;
-        font-size: 9pt;
+        font-size: 12pt;
 }
+
+.BfontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 18pt;
+        text-align: center;
+}
+
 
 .sm_fontOnly
 {
