@@ -1,0 +1,430 @@
+A{text-decoration:none}
+a:link    {color:black}
+a:visited {color:black}
+a:active  {color:mediumblue}
+a:hover   {color:mediumblue}
+
+div:first-letter
+{
+color: #ff0000;
+font-size:large
+}
+
+.readOnlyBox
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        background: #fffbef
+}
+
+.fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+}
+
+.sm_fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 8pt;
+}
+.sm7_fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 7pt;
+}
+
+.sm7_a_fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 7pt;
+        color: #808080
+}
+
+.sm7_b_fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 7pt;
+}
+
+.sm7h_fontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 8pt;
+        font-weight: bold;
+}
+
+.sm5_fontOnly
+.boldFontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 16;
+        font-weight: bold;
+        color: #009999
+}
+
+.fontOnlyLFalign
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        text-align: left;
+}
+
+.fontOnlyMDalign
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        text-align: center;
+}
+
+.fontOnlyRTalign
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        text-align: right;
+}
+
+.font7OnlyMDalign
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 7pt;
+        text-align: center;
+}
+
+.smallFontOnly
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 7pt;
+}
+
+.smallFontOnly_2
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 8pt;
+}
+
+.fontOnlyNoRight
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        border-right: none;
+}
+
+.fontOnlyNoLeft
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        border-left: none;
+}
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 6pt;
+}
+
+.inputField
+{
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        padding-right:2px;
+        border-left: none;
+}
+
+.textField
+{
+        text-align: right;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        padding-right:2px;
+        border-right: none;
+}
+
+.mailTextFormat1
+{
+        font-weight: bold;
+        text-align: right;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        padding-right:2px;
+        border-right: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: none;
+}
+
+.mailTextFormat2
+{
+        text-align: left;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        padding-top:0px;
+        padding-left:0px;
+        padding-bottom:0px;
+        border-left: none;
+        border-top: none;
+        border-bottom: none;
+}
+
+.mailToCCFormat
+{
+        text-align: center;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 9pt;
+        padding-top:0px;
+        padding-left:0px;
+        padding-bottom:0px;
+        border-left: none;
+        border-bottom: none;
+        text-align: center;
+        background-color: #d2c9ab;
+}
+
+.bookHeading
+{
+        text-align: center;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 9pt;
+        background-color: #6666ff;
+        color: #fff;
+}
+
+.bar
+{
+        text-align: center;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 9pt;
+        background-color: #eeeeee;
+        color: #444;
+}
+
+.client_head
+{
+        text-align: center;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 12pt;
+        background-color: #eeeeee;
+        color: #444;
+}
+
+.client_info1
+{
+        text-align: left;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        background-color: #bef;
+}
+
+.client_info
+{
+        text-align: left;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 9pt;
+        background-color: #bef;
+}
+
+.careofHeading
+{
+        text-align: center;
+        font-family: verdana, arial, sans-serif;
+        font-weight: bold;
+        font-size: 10pt;
+        background-color: #669966;
+        color: #fff;
+}
+
+#horizontalmenu ul
+{
+        float:left;
+        width:100%;
+        padding:0;
+        margin:0;
+        list-style-type:none;
+}
+
+#horizontalmenu a
+{
+        float:center;
+        width:130;
+        text-decoration:none;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        color:black;
+        background-color:#efefef;
+        padding:0.2em 0.6em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: #fff #888 #555 #fff;
+}
+
+#horizontalmenu a:hover
+{
+        color:yellow;
+        font-weight:bold;
+        /*text-decoration:underline;*/
+        background-color:#6666ff;
+}
+
+#horizontalmenu li
+{
+        display:inline;
+}
+
+#horizontaltablemenu ul
+{
+        float:left;
+        width:100%;
+        padding:0;
+        margin:0;
+        list-style-type:none;
+}
+#horizontaltablemenu a
+{
+        float:center;
+        width:238;
+        text-decoration:none;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        color:black;
+        background-color:#eeeeee;
+        padding:0.2em 0.6em;
+        border-left:1px;
+        border-top:1px;
+        border-right:2px;
+        border-bottom:2px;
+        border-style: solid;
+        /*border-color: 33cc99 #6633cc #6633cc #33cc99 */
+        border-color: #33cc99 #888 #555 #33cc99;
+}
+#horizontaltablemenu a:hover
+{
+        color:yellow;
+        font-weight:bold;
+        background-color:#6666ff;
+}
+
+#horizontaltablemenu li
+{
+        display:inline;
+}
+
+#verticalmenu
+{
+        width: 12em;
+        background: #eee;
+}
+
+#verticalmenu ul
+{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+
+#verticalmenu a:hover
+{
+        color:yellow;
+        font-weight:bold;
+        background-color:#6666ff;
+}
+
+#verticalmenu a
+{
+        color: #000;
+        float:center;
+        text-decoration:none;
+        text-align:left;
+        font-family: verdana, arial, sans-serif;
+        font-size: 9pt;
+        width:150;
+        display: block;
+        background-color:#efefef;
+        padding:0.2em 0.6em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: #fff #888 #555 #fff;
+}
+
+#verticalmenu h2
+{
+        color: #fff;
+        background: #000;
+        text-transform: uppercase;
+}
+
+#verticalmenu_trk
+{
+        width: 12em;
+        background: #eee;
+}
+
+#verticalmenu_trk ul
+{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+
+#verticalmenu_trk a:hover
+{
+        /*
+        color: #000;
+        */
+        color:yellow;
+        font-weight:bold;
+        background-color:#6666ff;
+}
+
+#verticalmenu_trk a
+{
+        color: #555;
+        float:center;
+        font-weight:bold;
+        text-decoration:none;
+        text-align:left;
+        font-family: verdana, arial, sans-serif;
+        font-size: 10pt;
+        width:230;
+        display: block;
+        background-color:#ffcc99;
+        padding:0.2em 0.5em;
+        border-width: 1px;
+        border-style: solid;
+        border-color: #fff #888 #555 #fff;
+}
+#spec_remarks ul
+{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+
+#spec_remarks a:hover
+{
+        /*
+        color: #000;
+        */
+        color:yellow;
+        font-weight:bold;
+        background-color:#888;
+}
+
+#spec_remarks a
+{
+        color: #555;
+        float:center;
+        text-decoration:none;
+        text-align:center;
+        font-family: verdana, arial, sans-serif;
+        font-size: 10pt;
+        width:100;
+        display: block;
+        background-color:#efefef;
+        padding:0.2em 0.5e
+        border-width: 1px;
+        border-style: solid;
+        border-color: #33cc99 #888 #555 #33cc99;
+}
